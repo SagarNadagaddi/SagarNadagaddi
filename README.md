@@ -3,7 +3,7 @@
 ## Hi there! 👋 I'm Sagar Nadagaddi
 
 ## 🚀 About Me
-- 🎓 **5th Semester Electronics & Communication Engineering Student**
+- 🎓 **7th Semester Electronics & Communication Engineering Student**
 - 📍 **Located in Hubballi, Karnataka, India**
 - 💡 **Passionate about New Generation AI and Technology**
 - 🔍 **Currently seeking internship opportunities**
